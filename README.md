@@ -1,4 +1,4 @@
-![logo](https://github.com/rupeshkanpariya2499/rupeshkanpariya2499/blob/main/%2B4915773504424.gif)
+![logo](https://github.com/rupeshkanpariya2499/rupeshkanpariya2499/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Rupeshkumar Kanpariya</h1>
 <h3 align="center">A passionate Data Analyst from Germany</h3>
 
